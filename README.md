@@ -2,7 +2,7 @@
 한국인터넷진흥원(KISA)에서 개발한 SEEND 암호화 방식을 활용하여 문자열 암복호화하는 프로그램
 CBC 운영 방식을 사용함
 
-##주요 변수
+## 주요 변수
 - pbszUserKey
 - pbszIV
 - plainText
